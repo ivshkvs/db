@@ -1,4 +1,3 @@
-﻿-- Database creation
 CREATE DATABASE mydatabase;
 USE mydatabase;
 
